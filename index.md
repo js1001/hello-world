@@ -1,5 +1,5 @@
-##My profile
-#Personal Information 
+# My profile
+## Personal Information 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae lorem vel mauris malesuada varius. Aenean gravida hendrerit suscipit. Ut venenatis blandit eleifend. 
 Interest in IT (Each answer should be one paragraph in length)
