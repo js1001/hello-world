@@ -1,4 +1,5 @@
 #My profile
+
 ##Personal Information 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae lorem vel mauris malesuada varius. Aenean gravida hendrerit suscipit. Ut venenatis blandit eleifend. 
@@ -16,7 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae lorem vel
 Ideal Job
 
 Include a hyperlink and a picture (screenshot of the job advertisement)
+
 [GitHub](http://github.com)
+
 #Personal Profile
 
 • The results of an online Myers-Briggs test.
@@ -31,12 +34,12 @@ Include a hyperlink and a picture (screenshot of the job advertisement)
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae lorem vel mauris malesuada varius. Aenean gravida hendrerit suscipit. Ut venenatis blandit eleifend. Phasellus euismod pulvinar mi, vitae imperdiet est rhoncus in. Vivamus sagittis id felis ac luctus. In venenatis, sem a accumsan molestie, ipsum enim vestibulum nulla, accumsan aliquam augue urna ut tellus. Aliquam consectetur, libero a facilisis sagittis, sem nunc imperdiet turpis, ut vulputate lorem est ac mauris. Suspendisse viverra ligula magna, eu pharetra lacus posuere sed. Ut ac dapibus risus, ac posuere urna. Sed vulputate ut lectus et euismod. Cras ac posuere eros. Phasellus sit amet aliquam.
-Project idea (1000 words total)
+
+#Project idea (1000 words total)
 
 ##Overview (100 words)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam vitae lorem vel mauris malesuada varius. Aenean gravida hendrerit suscipit. Ut venenatis blandit eleifend. Phasellus euismod pulvinar mi, vitae imperdiet est rhoncus in. Vivamus sagittis id felis ac luctus. In venenatis, sem a accumsan molestie, ipsum enim vestibulum nulla, accumsan aliquam augue urna ut tellus. Aliquam consectetur, libero a facilisis sagittis, sem nunc imperdiet turpis, ut vulputate lorem est ac mauris. Suspendisse viverra ligula magna, eu pharetra lacus posuere sed. Ut ac dapibus risus, ac posuere urna. Sed vulputate ut lectus et euismod. Cras ac posuere eros. Phasellus sit amet aliquam.
-
 
 ##Motivation (100) words)
 
